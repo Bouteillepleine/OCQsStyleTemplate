@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ExampleStyle" translatable="false">
+        <item>border.width=1dp</item>
+        <item>border.color.dark=#59FFFFFF</item>
+        <item>border.color.light=#1A000000</item>
+        <item>border.active=false</item>
+    </string-array>
+</resources>
